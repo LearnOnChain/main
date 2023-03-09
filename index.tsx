@@ -13,7 +13,7 @@ export default function Home() {
         </div>
           <Image src={learnbanner} className="px-10 h-12 w-auto" alt={''}></Image>
           <button className="flex px-5 py-2 gap-3 mx-auto h-max w-auto text-3xl text-white absolute top-0 right-0">
-            <AiFillInstagram> {"https://www.instagram.com/learnonchain"} <AiFillInstagram/>
+            <AiFillInstagram/>
             <AiFillLinkedin href="https://www.linkedin.com/in/learnonchain-web3-82a155269"  />
             <AiFillMediumSquare href="https://medium.com/@learnonchain" />
             <AiFillTwitterCircle href="https://www.twitter.com/@learn_onchain" />
