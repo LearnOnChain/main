@@ -26,7 +26,8 @@ export default function Home() {
               <Image src={learnhomepage} alt={''}></Image>
               </div>
               <div className="text-black text-5xl text-center py-10">
-              Coming Soon TEST!~!!!!!
+              Coming Soon TEST!~!!!!!111111
+            
               </div>
             </div>  
             
