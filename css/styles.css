@@ -21,6 +21,7 @@ h1 {
 	color: #8a999a;
 	font-size: 4em;
 	text-align: center;
+	padding-top: 50px;
 }
 
 h2 {
@@ -49,7 +50,6 @@ header {
 	min-height: 100vh;
 	background-color: white;
 	background-size: cover;
-	padding-top: 5%;
 	}
 
 /* Nav */
@@ -71,7 +71,7 @@ header {
 	font-weight: bold;
 	padding: 14px 16px;
 	text-decoration: none;
-	font-size: 1.2em;
+	font-size: 1.4em;
   }
   
   .topnav a:hover {
@@ -92,12 +92,12 @@ header {
     float: right;
 }
 
-.topnav .social-icons i {
+.topnav .social-icons a {
     display: inline-block;
     color: white;
     text-align: center;
     font-weight: bold;
-    padding: 15px;
+    padding: 14px 16px;
     text-decoration: none;
     font-size: 1.4em;
 }
@@ -108,8 +108,9 @@ header {
     }
     
     .topnav a.icon {
-        float: left;
-        display: block;
+       position: fixed;
+	   left: 1px;
+    display: block;
     }
 }
 
