@@ -184,15 +184,15 @@ header {
 	}
 
 #tokenomics ul {
-	text-align: left;
-	list-style-type: disc;
+	text-align: center;
+	list-style-type:none; 
 	padding-left: 20px;
 	margin-top: 10px;
 	margin-bottom: 20px;
 	}
 
 .grid-container li {
-	margin-bottom: 20px; 
+	margin-bottom: 15px; 
 	}
 
 .grid-container {
