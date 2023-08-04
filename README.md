@@ -215,9 +215,6 @@ We believe that our platform has the potential to revolutionize the education sy
 World-class teachers and academic professionals can pass on their knowledge and passion to a global audience with complete control over their timetable whilst earning an income.
 
 
-We seek funding to bring our vision to life and welcome the opportunity to work together.
-
-
 #### Appendices
 
 ****Case Studies Example 1 – Gabriela is a 15-year-old student from El Salvador who has a passion for Cloud Computing and dreams to become an Engineer with a top tech company. However, their local schools and universities are limited to core subjects based on the teacher's experience and availability. As Gabriela has been investing steadily into BTC for several years she discovers LearnOnChain and enrols in a 12-week course with private tutoring on the weekends. The teacher is a Harvard Professor with 20 years of engineering experience from Alphabet. Gabriela converts her BTC into the native $LEARN token to fund the course and tutoring sessions. Upon successfully completing the course the professor provides a letter of recommendation for Gabriella to attend Harvard University on a full scholarship.
