@@ -49,7 +49,7 @@ However, with the increasing popularity and adoption of blockchain, anyone from 
 * Users access the LearnOnChain Application by connecting to learnonchain.io through a web browser and wallet extension.
 * A virtual 3D university-style platform will allow students to explore the campus, attend classes, connect with other students, and visit the NFT shop.
 * To access a learning environment (classroom, lecture theatre or private tutoring room), students must pay the agreed fee to unlock the door. Funding – An in-platform token swap will allow students to exchange approved tokens* or coins with the Native $LEARN token.
-  __*Master Users control the list of approved tokens with a consensus mechanism determining the outcome of the vote. This will maintain the stability and accuracy of funding from students to teachers by avoiding large fluctuations in the market.
+  _ _ *Master Users control the list of approved tokens with a consensus mechanism determining the outcome of the vote. This will maintain the stability and accuracy of funding from students to teachers by avoiding large fluctuations in the market.
 * Smart Contract Education – The $LEARN token deposited by the student before each class is automatically staked. Once the agreement terms have been met, the teacher can decide whether to withdraw their cut of the tokens on a flexible or fixed agreement. Flexible can include withdrawing each week or continuing to stake the tokens long-term for greater rewards.
 
 
