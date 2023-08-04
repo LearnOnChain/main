@@ -60,7 +60,8 @@ A Token System Designed to Optimise Platform Tokenomics and User Experience. Lea
 Overview of $LEARN A Non-Inflationary Token used for in-platform education & teaching financials, plus voting and DAO Governance
 * Supply - 10 Max Billion $LEARN Max Supply
 * Students – Use $LEARN to enrol in classes, attend lectures & book private tutoring sessions.
-* Teachers – Will earn $LEARN. • Users can use $LEARN to acquire in-platform NFTs (I.e., Educational buildings), attend student social events and make general upgrades to their avatar.
+* Teachers – Will earn $LEARN.
+* Users can use $LEARN to acquire in-platform NFTs (I.e., Educational buildings), attend student social events and make general upgrades to their avatar.
 * NFTs - The main in-platform educational buildings (Classrooms, lecture theatres, and tutoring rooms) can be acquired by using $LEARN.
 
 
@@ -73,9 +74,9 @@ Overview of $LEARN A Non-Inflationary Token used for in-platform education & tea
 
 
 ### Staking
-* Staking $LEARN improves platform stability & reduces price volatility
-* Flexible staking is open-ended & stays staked for a minimum of 5 days until the user withdraws
-* Fixed staking offers 12, 24 or 36-month options with increasing APR attached
+* Staking $LEARN improves platform stability & reduces price volatility.
+* Flexible staking is open-ended & stays staked for a minimum of 5 days until the user withdraws.
+* Fixed staking offers 12, 24 or 36-month options with increasing APR attached.
 
 
 ## NFT Marketplace
@@ -172,6 +173,49 @@ Continuous upgrades, bug fixes, community-led developments, industry partnership
 
 
 _Note – The above timeline is subject to change._
+
+
+## Corporate Social Responsibility
+
+Our company is committed to corporate social responsibility (CSR). We believe that it is important to give back to the communities in which we operate and to make a positive impact on the world.
+* Environmental: Providing a virtual educational platform will help to reduce the impact of transportation, infrastructure, and raw materials such as textbooks. This will contribute to a more sustainable method of learning and teaching.
+* Social: Offering the opportunity to learn and teach without the restraints of cost, availability and personal safety will help improve the lives of many individuals. Scholarships and financial aid through transparent assistance to learn in a digital world will enhance the outlet for students across the world.
+* Community: Engaging with disadvantaged communities, schools, and areas in providing the accessibility to enhance their educational journey whilst providing a service that connects them with professionals and mentors from across the world.
+
+  
+Over 5 billion people have access to the internet and a computer. However, millions have limited or no access to education whether formal or informal. Factors such as conflict, discrimination and lack of access to a physical learning environment all contribute to this statistic. 
+
+
+
+Many of these individuals come from areas with high levels of economic inequality, low Global Youth Development Index (GYDI) ranking and a lack of trust in traditional financial institutions.  However, they also have some of the highest uptakes in cryptocurrency ownership in the world. 
+
+
+Therefore, the main driver for this platform is to help bridge that gap that so many unfortunate individuals face, largely driven by factors out of their control but who have adopted blockchain and seek a new way to learn.
+
+
+
+Whether it’s a mother from Ukraine who has taken refuge in Europe and now seeks to learn mathematics to better her family's future. Or, a child from a remote aboriginal community who gazes into the night sky and dreams of becoming an astronomer. 
+
+
+
+Children and adolescents should have the ability to connect with teachers from across the world and access quality education through an interactive and fun platform that brings people together in an ecosystem of learning. 
+
+
+A portion of the profits will fund scholarships that will be offered to those who have a passion for learning regardless of age, culture or background. These financial aids can then be used to access the education services on the platform free of charge. Whether that’s to attend lectures or a private tutoring session.
+
+
+The benefits an online platform can offer will create a better world for all of us.
+
+
+### Closing Remarks
+
+We believe that our platform has the potential to revolutionize the education system to a more accessible and affordable model that doesn't discriminate against a student's background, culture or location.
+
+
+World-class teachers and academic professionals can pass on their knowledge and passion to a global audience with complete control over their timetable whilst earning an income.
+
+
+We seek funding to bring our vision to life and welcome the opportunity to work together.
 
 
 #### Appendices
