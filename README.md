@@ -124,52 +124,25 @@ _NFT Item Examples_
 
 
 ## Roadmap 
-### Phase 1 – Commence Project 
-
-
-Q3 2023 – Publish Litepaper, Create Socials Channels, Deploy Basic Website, Launch $LEARN Token, Engage Investors and Community.
-
-
-Q4 2023 – Secure Round 1 Investment from Private Companies, Grants, and Governments. Kick Off building of NFT Assets, Application Platform and Smart Contracts.
-
-
-Q1 2024 – First release of platform design Artist Impressions), Community Engagements, and Marketing for $LEARN.
+### Phase 1 – Commence Project
+Company registration, documentation published, social channels created, and website deployed. Funding secured via private investment, government and blockchain grants. Create basic designs and imagery. Develop marketing campaign including dates for NFT and token sale. Kick-off talks with commercial partners. Hire and expand the team.
 
 
 ### Phase 2 – Build and Engage
-
-
-Q2 2024 – NFT Launch of Educational Buildings with Whitelisted Application, Marketing on Major NFT Drop Websites, and Investor Invitations.
-
-
-Q3 2024 – Second release of platform design. Further community engagement.
-
-
-Q4 2024 – Full Whitepaper released. Second NFT Launch of in-platform assets.
+The main development of the prototype with creative design, 3D modelling, and blockchain integration. Commence marketing campaign with whitelisting for upcoming $LEARN and NFT sales. Promote and seek feedback on platform design. Further community engagement. Secure partnerships and integrate technology. 
 
 
 ### Phase 3 – Test and Marketing
-
-
-Q1 2025 – Blockchain Audit. Testing. Major Marketing Push.
+Complete regulatory and compliance requirements. Begin testing prototype alongside a major marketing campaign for beta testers. 
 
 
 ### Phase 4 – Go Live
-
-
-Q2 2025V1 of Platform Go Live in Full Production
-
-
-Q3 2025 – Major Global Push across the educational sector, news outlets, and socials
-
-
-Q4 2025 – Cross chain development and external NFT usage for Avatars (i.e., BAYC)
+V1 of the platform in full production. Significant global marketing push across the educational sector, news outlets, and socials. Cross-chain development and external NFT usage for avatars. 
 
 
 ### Phase 5 – Production
+Continuous upgrades, bug fixes, community-led developments, industry partnerships, and global promotional marketing. New features released. Advanced Gameplay introduced (VR/AR).
 
-
-Continuous upgrades, bug fixes, community-led developments, industry partnerships, and global promotional marketing. New features released. Advanced Gameplay introduced.
 
 
 _Note – The above timeline is subject to change._
