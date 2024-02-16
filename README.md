@@ -1,4 +1,4 @@
-# ﻿Whitepaper
+# ﻿Welcome
 
 
 Our Vision: An Educational Web3 Platform secured on the blockchain where anyone can learn and educate in a fully decentralised environment.
