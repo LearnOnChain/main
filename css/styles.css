@@ -14,7 +14,7 @@ section {
 
 h1 {
     color: #197A83;
-    font-size: 2.5em;
+    font-size: 2em;
     text-align: center;
     padding-top: 60px;
     padding-bottom: 5px;
@@ -23,13 +23,13 @@ h1 {
 
 h2 {
     color: black;
-    font-size: 1.85em;
+    font-size: 1.3em;
     text-align: center;
 }
 
 h3 {
     color: black;
-    font-size: 2em;
+    font-size: 1em;
     text-align: center;
     font-style: italic;
 }
@@ -43,7 +43,7 @@ h4 {
 
 p {
     color: black;
-    font-size: 1em;
+    font-size: 0.9em;
     text-align: center;
 }
 
@@ -78,6 +78,8 @@ header {
     left: 0;
     right: 0;
     z-index: 5;
+	height: 40px;
+
 }
 
 .topnav a {
@@ -86,7 +88,7 @@ header {
     color: white;
     text-align: center;
     font-weight: bold;
-    padding: 14px 16px;
+    padding: 10px 16px;
     text-decoration: none;
     font-size: 1.4em;
 }
@@ -114,7 +116,7 @@ header {
     color: white;
     text-align: center;
     font-weight: bold;
-    padding: 14px 16px;
+    padding: 10px 16px;
     text-decoration: none;
     font-size: 1.4em;
 }
